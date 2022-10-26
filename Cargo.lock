@@ -237,7 +237,9 @@ dependencies = [
 
 [[package]]
 name = "forc-tracing"
-version = "0.26.0"
+version = "0.28.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "cf2101b328e9be4246729cce17376ae6546241a2041041b02e8ebfe20eb9287d"
 dependencies = [
  "ansi_term",
  "tracing",
